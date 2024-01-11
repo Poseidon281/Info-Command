@@ -5,7 +5,7 @@ Dit script voegt een "charinfo" commando toe aan de ESX-mod voor FiveM-servers. 
 ## Installatie
 
 1. Voeg het script toe aan de resources van je server.
-2. Voeg `ensure charinfo` toe aan je `server.cfg`-bestand.
+2. Voeg `ensure Info-Command` toe aan je `server.cfg`-bestand.
 3. Configureer de Discord-webhook en andere instellingen in het script.
 
 ## Gebruik
